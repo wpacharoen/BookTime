@@ -1,0 +1,33 @@
+hi
+[20:20:25] dararat: Ø ขี้นรายการที่เป็นประเภทร้านอาหาร เรียงตามลำดับดังนี้
+o ระยะทางใกล้ตำแหน่งทิ่อยู่ปัจจุบันอัตโนมัตกรณีที่ detect ตำแหน่งปัจจุบันได้
+o ขึ้นตาม feature ของรายการ เช่น hottest, recommend, มี promotion.
+o ขี้นตามความนิยม (rate)
+[20:37:43] dararat: Qes: Filter อย่างไร ?
+[20:38:17] dararat: Free form  text box
+[20:42:51] dararat: Most helpfull button
+[20:43:55] dararat: show most 5 comments
+[20:46:48] dararat: * Remove "Share"
+[20:53:52] dararat: * Add item period
+[20:55:50] dararat: Period: 1-10 Aug   ---> 10 days remain
+[21:03:15] dararat: ขออนุญาติ เดี่ยวมา
+[21:03:19] dararat: 5 นาทีนะค่ะ
+[21:06:34] dararat: มาแหละ
+[21:10:06] dararat: หน้าจอง ถ้าเลือกเป็น item มี Show สีส้ม Item
+[21:12:38] dararat: Remove "Add to google calendar"
+[21:24:44] dararat: * facebook , contact เบอร์
+[21:35:03] dararat: * หัวข้อ booktime ให้มี รายการของ เพื่อน ที่ทำการจอง บอก ร้าาน เวลา
+[21:35:31] dararat: 15 mins ago
+[21:42:49] dararat: * เอา today week month ออก
+[21:44:55] dararat: click วัน บอก รายละเอียด
+[21:45:54] dararat: [20:37] dararat: 
+
+<<< Qes: Filter อย่างไร ?
+Free form  text box
+[21:45:59] dararat: ตาม location
+[21:49:28] dararat: Change "Pending" --> "Waiting"
+[21:51:37] dararat: Remove ---- > [21:49:33] dararat: Change "Pending" --> "Waiting"
+[21:53:29] dararat: Shop Profile --> เพิ่ม Shop address box
+[21:55:54] dararat: * Pending List of Category
+[21:58:20] dararat: * pending add edit service
+[22:03:25] dararat: * Icon
